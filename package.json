@@ -1,0 +1,8 @@
+{
+  "name": "tailwind-template",
+  "version": "1.0.0",
+  "repository": "https://github.com/nick-f/tailwind-template",
+  "author": "nick-f",
+  "license": "MIT",
+  "private": true,
+}
