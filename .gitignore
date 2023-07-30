@@ -9,3 +9,7 @@
 !.yarn/versions
 .pnp.*
 yarn-error.log
+
+### parcel ###
+.parcel-cache/
+dist/
