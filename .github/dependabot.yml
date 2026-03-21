@@ -9,16 +9,6 @@ updates:
         update-types:
           - "minor"
           - "patch"
-        labels:
-          - "dependencies"
-          - "dependabot"
-          - "npm"
-          - "deps:minor-patch"
       major:
         update-types:
           - "major"
-        labels:
-          - "dependencies"
-          - "dependabot"
-          - "npm"
-          - "deps:major"
